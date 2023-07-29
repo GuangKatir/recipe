@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">restaurant</string>
+    <string name="splash_screen_image_description">splash image</string>
+    <string name="slide_image_description">Description</string>
+</resources>
